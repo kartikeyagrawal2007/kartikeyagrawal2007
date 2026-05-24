@@ -20,7 +20,7 @@ I don't do tutorial projects. Everything I build is production-architected — r
 
 **[AI Meeting Intelligence](https://github.com/kartikeyagrawal2007/ai-meeting-intelligence)** — End-to-end pipeline that transforms raw meeting audio into structured intelligence. Silero VAD for speech segmentation → AssemblyAI Universal-2 for speaker-diarized transcription (6.67% WER) → Llama 3.3 70B via Groq for extracting action items, decisions, and follow-ups with source attribution.
 
-**[StockSense](https://github.com/stocksense-in)** — AI-powered stock intelligence platform for Indian retail investors. FinBERT sentiment pipeline, Prophet forecasting, LangChain RAG assistant, WebSocket real-time price streaming, geopolitical risk mapping, IPO scoring. Built with a co-founder (Next.js 14 + FastAPI + Supabase + pgvector). Private repo.
+**[StockSense](https://github.com/stocksense-in)** — AI-powered stock intelligence platform for Indian retail investors. FinBERT sentiment pipeline, Prophet forecasting, LangChain RAG assistant, WebSocket real-time price streaming, geopolitical risk mapping, IPO scoring. Built with a co-founder under stocksense-in (Next.js 14 + FastAPI + Supabase + pgvector). Private repo.
 
 ---
 
