@@ -68,8 +68,7 @@ I don't do tutorial projects. Everything I build is production-architected — r
 ## GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kartikeyagrawal2007&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartikeyagrawal2007&layout=compact&theme=dark&hide_border=true&cache_seconds=1800" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=kartikeyagrawal2007&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" height="150"/>
 </p>
 
 ---
