@@ -65,13 +65,11 @@ I don't do tutorial projects. Everything I build is production-architected — r
 
 ---
 
-## GitHub stats
+## GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=kartikeyagrawal2007&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" height="150"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kartikeyagrawal2007&theme=github_dark" />
 </p>
-
----
 
 ## Open to internships
 
