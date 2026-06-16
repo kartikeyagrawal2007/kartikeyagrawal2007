@@ -16,7 +16,7 @@
 
 I don't do tutorial projects. Everything I build is production-architected — real CI/CD, real databases, real engineering decisions.
 
-**[HostelMate](https://github.com/nivo-in)** — Smart hostel management SaaS for Indian colleges, under my startup Nivo Technologies. Replaces manual registers, WhatsApp complaint groups, and paper systems. Built as a Turborepo monorepo (Next.js 14 + Express + Supabase + Redis). Features rotating QR attendance with Haversine geofencing (100m radius), browser-based face recognition via face-api.js, RBAC middleware on every route, RLS policies on every table, 26 Jest tests, and GitHub Actions CI on every commit. Private repo — proprietary IP.
+**[HostelMate](https://github.com/nivo-in)** — Smart hostel management SaaS for Indian colleges, under my startup Nivo Technologies. Replaces manual registers, WhatsApp complaint groups, and paper systems. Built as a Turborepo monorepo (Next.js 14 + Express + Supabase + Redis). Features rotating QR attendance with Haversine geofencing (100m radius), browser-based face recognition via face-api.js, RBAC middleware on every route, RLS policies on every table, 214 Jest tests, and GitHub Actions CI on every commit. Private repo — proprietary IP.
 
 **[AI Meeting Intelligence](https://github.com/kartikeyagrawal2007/ai-meeting-intelligence)** — End-to-end pipeline that transforms raw meeting audio into structured intelligence. Silero VAD for speech segmentation → AssemblyAI Universal-2 for speaker-diarized transcription (6.67% WER) → Llama 3.3 70B via Groq for extracting action items, decisions, and follow-ups with source attribution.
 
