@@ -67,9 +67,7 @@ I don't do tutorial projects. Everything I build is production-architected — r
 
 ## GitHub Stats
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=kartikeyagrawal2007&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
-</p>
+
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kartikeyagrawal2007&theme=github_dark" />
